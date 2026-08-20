@@ -116,14 +116,14 @@ I bridge physical hardware and software engineering. I specialize in designing a
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InamRehman-engr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InamRehman-engr&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=86400" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=InamRehman-engr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=InamRehman-engr&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InamRehman-engr&theme=tokyo-night&hide_border=true" width="97%" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=InamRehman-engr&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 </div>
 
 <br/>
