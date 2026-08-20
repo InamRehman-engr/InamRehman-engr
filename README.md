@@ -123,14 +123,10 @@ I bridge physical hardware and software engineering. I specialize in designing a
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=InamRehman-engr&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=InamRehman-engr&theme=tokyonight&hide_border=false" width="97%" alt="GitHub Streak" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=InamRehman-engr&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="Trophies" />
-</div>
 
 ---
 
