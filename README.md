@@ -37,11 +37,25 @@ I bridge physical hardware and software engineering. I specialize in designing a
 </details>
 
 <details open>
+<summary><b>📐 EDA, PCB Design & Electronics Suites</b></summary>
+<br/>
+
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A200FF?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314685?style=for-the-badge&logo=kicad&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-005596?style=for-the-badge&logo=semiconductor&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-910000?style=for-the-badge&logo=analogdevices&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-0072C6?style=for-the-badge&logo=easyeda&logoColor=white)
+</details>
+
+<details open>
 <summary><b>🔌 Embedded, Hardware & Protocols</b></summary>
 <br/>
 
+![STM32](https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00599C?style=for-the-badge&logo=freertos&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-222222?style=for-the-badge&logo=platformio&logoColor=F5822A)
 ![Mosquitto](https://img.shields.io/badge/MQTT%20Mosquitto-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-008FBA?style=for-the-badge&logo=cmake&logoColor=white)
@@ -102,14 +116,14 @@ I bridge physical hardware and software engineering. I specialize in designing a
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InamRehman-engr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InamRehman-engr&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=InamRehman-engr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InamRehman-engr&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=86400" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=InamRehman-engr&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InamRehman-engr&theme=tokyo-night&hide_border=true" width="97%" alt="Activity Graph" />
 </div>
 
 <br/>
