@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-I bridge physical hardware and software engineering. I specialize in designing and building end-to-end industrial systems—ranging from low-level firmware, driver development, and hardware integration to cloud backends, real-time telemetry, and automated deployments.
+I bridge physical hardware and software engineering. I specialize in designing and building end-to-end industrial systems ranging from low-level firmware, driver development, and hardware integration to cloud backends, real-time telemetry, and automated deployments.
 
 - 🤖 **Current Focus:** Advanced Robotics & Autonomous Systems Navigation
 - ⚙️ **Specialization:** Industry 4.0 Architecture, Edge Computing & Hardware-Software Integration
