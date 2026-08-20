@@ -1,3 +1,7 @@
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # 💫 About Me:
 Mechatronics Engineer & System Engineer focused on embedded systems, system architecture, and industrial automation. I solve complex engineering problems by breaking them into smaller, efficient, and reliable systems.<br><br>I build products end to end from firmware, drivers, and hardware integration to backend, APIs, databases, and deployment. I’ve worked on Industry 4.0 machines, designing their overall architecture and software hardware integration.<br><br>Currently exploring Robotics & Industrial Automation 🤖⚙️
 
