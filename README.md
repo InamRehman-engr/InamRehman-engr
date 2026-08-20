@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://lh3.googleusercontent.com/d/1S3JvIuv8Js1LlSogYai0ukV1XPo_AcbO" height="180" alt="Header GIF" />
+  <img src="https://lh3.googleusercontent.com/d/1S3JvIuv8Js1LlSogYai0ukV1XPo_AcbO" height="280" alt="Header GIF" />
   
   <h1>Hi, I'm Inam ur Rehman 👋</h1>
   <p><b>Mechatronics & Systems Engineer | Industrial Automation & Embedded Systems Specialist</b></p>
